@@ -1,4 +1,5 @@
 {
+  "name": "simple-component2",
   "dependencies": {
     "angular": "^1.5.0"
   },
